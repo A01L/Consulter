@@ -10,4 +10,8 @@ Designed by Beidinchanova Viktoria
 /views - templates for frontend 
 /widget-themes - themes for app
 
+Login - lopglop@gmail.com
+Password - @dmin2020#DMIN
 
+http://domain.com/php/app.php?admin
+http://domain.com/php/app.php?widget-test
